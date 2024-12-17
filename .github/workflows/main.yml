@@ -20,4 +20,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: bladi777/bladi777:latest
+          tags: bladi777/Metricas:latest
